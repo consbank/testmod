@@ -3,5 +3,5 @@ package testmod
 import "fmt"
 
 func Ver() {
-	fmt.Println("1.3")
+	fmt.Println("1.4")
 }
